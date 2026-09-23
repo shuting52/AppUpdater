@@ -1,0 +1,15 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "downloadUrl": "https://github.com/shuting52/AppUpdater/releases/download/v1.0.1/appupdater-v1.0.1-debug.apk",
+  "apkSize": 10837809,
+  "forceUpdate": false,
+  "md5": "",
+  "releaseNotes": [
+    "全新动态卡通更新弹窗，升级过程更有趣",
+    "下载进度条走完自动安装，无需手动确认",
+    "APK 缓存续传 + 大小校验",
+    "安装完成一键重启到新版本",
+    "修复若干已知问题，体验更稳定"
+  ]
+}
