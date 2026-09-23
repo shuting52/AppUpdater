@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FileProvider 路径映射：更新 APK 存放在应用外部专属目录 / 内部目录 -->
+<paths>
+    <external-files-path name="update_apk" path="." />
+    <files-path name="internal_update" path="." />
+    <cache-path name="cache_update" path="." />
+</paths>
