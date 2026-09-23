@@ -1,0 +1,15 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "downloadUrl": "https://example.com/appupdater-1.0.1.apk",
+  "apkSize": 10000000,
+  "forceUpdate": false,
+  "md5": "",
+  "releaseNotes": [
+    "全新动态卡通更新弹窗，升级过程更有趣",
+    "自动检测新版本，一键下载安装最新 APK",
+    "Canvas 全手绘音乐猫 + 火箭发射 + 彩带庆祝动画",
+    "优化更新体验，支持强制更新与安装权限引导"
+  ],
+  "_ai_notice": "内容由AI生成"
+}
